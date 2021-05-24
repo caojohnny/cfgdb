@@ -15,7 +15,7 @@ zmq sockets.
 # Building
 
 ``` shell
-git clone https://github.com/AgentTroll/cfgdb.git
+git clone https://github.com/caojohnny/cfgdb.git
 cd cfgdb
 mkdir build
 cd build
